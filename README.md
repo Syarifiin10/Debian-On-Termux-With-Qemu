@@ -1,4 +1,4 @@
-# Debian on QEMU via Termux on Android
+# Install Debian on QEMU via Termux on Android
 
 This repository provides instructions and necessary configurations to run Debian using QEMU on an Android device via the Termux environment.
 
