@@ -110,5 +110,3 @@ Feel free to open issues or submit pull requests for improvements and fixes.
 
 This project is licensed under the MIT License.
 ```
-
-This README.md file is now ready to be used in your GitHub repository, providing comprehensive instructions for setting up and running Debian on QEMU via Termux on an Android device.
