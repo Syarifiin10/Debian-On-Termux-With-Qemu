@@ -1,14 +1,10 @@
-
-# Debian on QEMU via Termux on Android
-
-This repository provides instructions and necessary configurat
 # Debian on QEMU via Termux on Android
 
 This repository provides instructions and necessary configurations to run Debian using QEMU on an Android device via the Termux environment.
 
 ## Requirements
 
-- **Termux**: Available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.termux)
+- **Termux**: Available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.termux) or [F-Droid](https://f-droid.org/id/packages/com.termux/)
 - **QEMU**: Installed via Termux
 - **Debian ISO**: Download from [Debian's official website](https://www.debian.org/distrib/)
 
@@ -17,7 +13,8 @@ This repository provides instructions and necessary configurations to run Debian
 - **Android Device**: Poco X3 NFC (or any Android device with similar or better specifications)
 - **RAM**: 8 GB
 - **Storage**: 128 GB
-- **Processor**: Snapdragon 730
+- **Processor**: Snapdragon 732G (2,30 GHz)
+- **GPU**: Adreno 618
 
 ## Setup Instructions
 
@@ -224,4 +221,4 @@ Feel free to open issues or submit pull requests for improvements and fixes.
 This project is licensed under the MIT License.
 
 
-**CLICK [HERE](https://play.google.com/store/apps/details?id=com.termux) TO VIEW LICENSE**
+*Click [here](https://github.com/Syarifiin10/Debian-On-Termux-With-Qemu/blob/main/LICENSE) to view license*
